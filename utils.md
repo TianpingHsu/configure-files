@@ -1,0 +1,5 @@
+
+## archlinux adjust volumes
+alsamixer
+
+
