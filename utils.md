@@ -5,6 +5,8 @@ alsamixer
 ## makepkg
 
 ## pacman
+> sudo pacman -Rs $(pacman -Qdtq) 
+> sudo rm /var/lib/pacman/db.lck
 
 
 ## rsync
